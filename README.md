@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranatimn
+- 👋 Hi, I’m @pranati19
 - 👀 I’m interested in data analyst roles skilled in excel and SQL
 - 🌱 I’m currently learning powerbi and python
 - 📫 How to reach me pmahananda96@gmail.com or www.linkedin.com/in/pranati19
